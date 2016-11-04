@@ -31,7 +31,8 @@
     zh-Hant = 關於
     he = אודות
     sk = O aplikácii
-
+    fa = درباره ما
+    
   [back]
     comment = Button text (should be short)
     en = Back
@@ -62,8 +63,9 @@
     zh-Hant = 返回
     he = חזור
     sk = Späť
-
-  [cancel]
+    fa = بازگشت
+   
+   [cancel]
     comment = Button text (should be short)
     tags = tizen
     en = Cancel
@@ -94,6 +96,7 @@
     zh-Hant = 取消
     he = בטל
     sk = Zrušiť
+    fa = لغو
 
   [cancel_download]
     comment = Button which interrupts country download
